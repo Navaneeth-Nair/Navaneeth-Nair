@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navaneeth Nair</h1>
-<h3 align="center">Welcome to my developer portfolio! I am a Blooming developer with expertise in a wide range of programming languages and technologies, including C, CSS, Python, C++. This README provides an overview of my skills and projects.</h3>
+<h3 align="center">Welcome to my developer portfolio! I am a Blooming developer with expertise in a wide range of programming languages and technologies, including C, C++, Python and Kotlin. This Portfolio provides an overview of my skills and projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navaneeth-nair&label=Profile%20views&color=0e75b6&style=flat" alt="navaneeth-nair" /> </p>
 
-- 🌱 I’m currently learning **Java , C#**
+- 🌱 I’m currently learning **Rust, ML**
 
 - 📫 How to reach me **navaneethnair82@gmail.com**
 
